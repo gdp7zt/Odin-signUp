@@ -1,1 +1,3 @@
 # Odin-signUp
+
+Prior to beginning this project, I learned about intermediate CSS and intermediate HTML concenpts. The html was learning about some new tags and shortcuts to use in our code editor (as well as SVGs). The CSS was more about different styling techniques, other techniques to format a page besides flexbox and many other concepts. Then, there were 2 intensive sections on forms using both html and CSS to create them. This project will be implementing all of this new knowledge into one project to solidify my understanding of these new concepts!
